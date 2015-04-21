@@ -1,0 +1,29 @@
+{
+	"name": "summary-statistics",
+	"version": "0.0.0",
+	"author": "Sitegui <sitegui@sitegui.com.br>",
+	"description": "Summarize a set of observations, in order to communicate the largest amount of information as simply as possible",
+	"main": "./index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sitegui/summary-statistics"
+	},
+	"keywords": [
+		"summary",
+		"median",
+		"quartile",
+		"statistics"
+	],
+	"dependencies": {},
+	"license": "MIT",
+	"engines": {
+		"node": ">=0.10"
+	},
+	"scripts": {
+		"test": "mocha test"
+	},
+	"devDependencies": {
+		"mocha": "^2.2.4",
+		"should": "^6.0.1"
+	}
+}
