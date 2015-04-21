@@ -1,6 +1,6 @@
 {
 	"name": "summary-statistics",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"author": "Sitegui <sitegui@sitegui.com.br>",
 	"description": "Summarize a set of observations, in order to communicate the largest amount of information as simply as possible",
 	"main": "./index.js",

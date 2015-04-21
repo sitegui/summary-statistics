@@ -13,15 +13,15 @@ var values = [3, 14, 15, 92, 65, 35, 89, 79, 32, 38, 46, 26, 43, 38, 32, 79, 5]
 
 var summary = ss(values)
 /* {
- *     num: x,
- *     sum: x,
- *     avg: x,
+ *     num: 17,
+ *     sum: 731,
+ *     avg: 43,
  * 
- *     min: x,
- *     q1: x,
- *     median: x,
- *     q3: x,
- *     max: x
+ *     min: 3,
+ *     q1: 23.25,
+ *     median: 38,
+ *     q3: 68.5,
+ *     max: 92
  * }
  */
 ```
